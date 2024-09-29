@@ -1,4 +1,4 @@
-#Melos - Java Music Player
+# Melos - Java Music Player
 
 This is a simple music player application built in Java that allows you to play `.wav` files from a specified directory. 
 
